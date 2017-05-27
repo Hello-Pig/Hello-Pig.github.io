@@ -27,6 +27,14 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[测试]]></title>
+    <url>%2F2017%2F02%2F26%2F%E9%9A%8F%E7%AC%94%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[测试随笔是否可用###乱七八糟的东西 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbb]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[测试一下]]></title>
     <url>%2F2017%2F02%2F26%2F%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%2F</url>
     <content type="text"><![CDATA[一级标题二级标题三级标题无序列表 1 2 3 有序列表 1 2 3 代码部分1234int a = 0;int b = 0;int c;c = a + b; 这是引用内容 插入连接百度 插入图片]]></content>
